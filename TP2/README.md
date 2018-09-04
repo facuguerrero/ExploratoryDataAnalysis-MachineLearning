@@ -10,6 +10,8 @@ By using their public datasets, this project contains different prediction algor
 
 To define what variables have a greater influence on the calculation, an Exploratory Data Analysis was made and it can be found [here](https://github.com/facuguerrero/PrediccionPropiedades/tree/master/TP1).
 
+Click [here](https://github.com/facuguerrero/PrediccionPropiedades/blob/master/TP2/Informe/Informe.pdf) for a detailed report.
+
 ---
 ### *Español:* 
 

@@ -10,6 +10,8 @@ By using their public datasets, this repository contains an Exploratory Data Ana
 
 Taking into consideration the insights produced, a study that predicts properties selling prices using Machine Learning algorithms can be found [here](https://github.com/facuguerrero/PrediccionPropiedades/tree/master/TP2).
 
+Click [here](https://github.com/facuguerrero/PrediccionPropiedades/blob/master/TP1/Tp1%20con%20maps/Informe/Informe.pdf) for a detailed report.
+
 ---
 ### *Español:* 
 
