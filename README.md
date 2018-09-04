@@ -15,8 +15,3 @@ This project is made up of two main parts:
 
 #### Facultad de Ingeniería de la Universidad de Buenos Aires
 #### TP1 ORGANIZACION DE DATOS 75.06
-
-##### Análisis de Datos - Properati
-
-Se realizó un análisis exploratorio del set de datos de ventas de Properati. Éste contiene un registro histórico de
-publicaciones de ventas de propiedades en CABA y Gran Buenos Aires.
