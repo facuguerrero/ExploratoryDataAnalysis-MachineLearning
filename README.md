@@ -11,7 +11,6 @@ This project is made up of two main parts:
 * TP2 contains different prediction algorithms that calculate the selling price of properties in Buenos Aires City. It can be found [here](https://github.com/facuguerrero/PrediccionPropiedades/tree/master/TP2).
 
 ---
-### *Español:* 
 
 #### Facultad de Ingeniería de la Universidad de Buenos Aires
 #### TP1 ORGANIZACION DE DATOS 75.06
