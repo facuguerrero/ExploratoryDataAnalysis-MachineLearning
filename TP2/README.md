@@ -8,7 +8,7 @@ Python, Pandas, Machine Learning Algorithms, Jupyter Notebook, Google Maps API.
 
 By using their public datasets, this project contains different prediction algorithms that calculate the selling price of properties in Buenos Aires City. 
 
-To define what variables have a greater influence on the calculation, an Exploratory Data Analysis was made and it can be found [here](https://github.com/facuguerrero/PrediccionPropiedades/tree/master/TP1).
+To define what variables have a greater influence on the calculation, an Exploratory Data Analysis was made and it can be found [here](https://github.com/facuguerrero/PrediccionPropiedades/tree/master/TP1.).
 
 ---
 ### *Español:* 
